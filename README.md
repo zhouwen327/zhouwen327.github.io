@@ -1,3 +1,5 @@
+theme: THEME-NAME
+
 # Wen Zhou
 This is Wen Zhou's personal [homepage](https://zhouwen327.github.io/).
 
