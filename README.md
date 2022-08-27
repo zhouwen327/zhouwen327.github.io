@@ -1,13 +1,3 @@
----
-permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 # Wen Zhou
 This is Wen Zhou's personal [homepage](https://zhouwen327.github.io/).
 
