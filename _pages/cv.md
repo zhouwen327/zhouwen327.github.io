@@ -13,8 +13,8 @@ Basic background
 ======
 * Obtained the Ph.D. degree in School of Software Engineering, Tongji University, Shanghai City, P.R.China, July, 2018
 * Joined the Computer and Information School, Anhui Normal University, Oct. 2018.
-* Be appointed as a graduate tutor in Jan.,2020.
-* Become associated professor in Dec.,2021.
+* Was appointed as a graduate tutor in Jan.,2020.
+* Became associated professor in Dec.,2021.
 
 Research Interests
 ======
