@@ -15,7 +15,7 @@ This is Wen Zhou's personal [homepage](https://zhouwen327.github.io/).
 
 I am an associate professor at Anhui Normal University, China. My research interest focuses on virtual reality and Artificial intelligence, including deep reinforcement methods in a virtual emergency scenario, a deep learning approach for shape segmentation, as well as Visualization, and 3D retrieval based on hand-sketch.
 
-### PROFILE:
+### Profile:
 
 * Highly self-motivated researcher with demonstrated research expertise virtual scenario processes. 
 * Strong interpersonal skills with a good sense of teamwork.
@@ -34,7 +34,8 @@ W. Zhou, J. Jia, W. Jiang, C. Huang "Sketch Augmentation-driven Shape Retrieval 
 W. Zhou, J. Jia, "Training Deep Convolutional Neural Networks to Acquire the Best View of a 3D Shape"[J]. <i>Multimedia Tools and Applications</i>. 2020, 79(1):581-601 (SCI, CCF-C journal，EI: 20193007231156, WOS:000517987600023) 
 </li><li>
 W. ZHOU, W. JIANG, W. BIAN, B. JIE, "WebVR Human-centered Indoor Layout Design Framework using a Convolutional Neural Network and Deep Q-learning" [J]. <i>IEEE Access, </i> 2019, 7(1):185773-185785.(SCI, WOS:000510024300003)
-</li><li>
+</li>
+<li>
 W. ZHOU, J. JIA, C. HUANG, Y. CHENG "Web3D learning framework for 3D Shape retrieval based on hybrid Convolutional Neural Networks"[J].<i> Tsinghua Science and Technology </i>,2019, 25(1):93-102(SCI, EI: 20193007231156，WOS:000516758000009).
 </li><li>
 W. ZHOU, F. CHEN, Y. ZONG, D. ZHAO, B. JIE, Z. WANG, C. HUANG, Eddie Y.K N.G. "Automatic Detection Approach for Bioresorbable Vascular Scaffolds Using a U-shaped Convolutional Neural Network[J]". <i>IEEE Access</i>. 2019，7(1):94424 – 94430 (SCI，WOS:000478676600022).
