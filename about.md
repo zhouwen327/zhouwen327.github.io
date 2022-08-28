@@ -40,7 +40,10 @@ W. Zhou, J. Jia, "Training Deep Convolutional Neural Networks to Acquire the Bes
 <li>
 W. ZHOU, W. JIANG, W. BIAN, B. JIE, "WebVR Human-centered Indoor Layout Design Framework using a Convolutional Neural Network and Deep Q-learning" [J]. <i>IEEE Access, </i> 2019, 7(1):185773-185785.(SCI, WOS:000510024300003)
 </li>
+<<<<<<< HEAD
 
+=======
+>>>>>>> bca8f9560e56911516f39ae2b5ec0436bc8070c3
 <li>
 W. ZHOU, J. JIA, C. HUANG, Y. CHENG "Web3D learning framework for 3D Shape retrieval based on hybrid Convolutional Neural Networks"[J].<i> Tsinghua Science and Technology </i>,2019, 25(1):93-102(SCI, EI: 20193007231156，WOS:000516758000009).
 </li>
