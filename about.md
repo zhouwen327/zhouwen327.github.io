@@ -22,11 +22,12 @@ I am an associate professor at Anhui Normal University, China. My research inter
 
 ## Selected Journal Publications
 
-======
-<ul>{% for post in site.publications %}
+<ul>
+       {% for post in site.publications %}
        {% include archive-single-cv.html %}
-   {% endfor %}
+       {% endfor %}
 </ul>
+
 
 ## For more information
 
