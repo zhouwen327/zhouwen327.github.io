@@ -35,5 +35,5 @@ W. ZHOU, J. JIA, X. SU "A Novel Compression-driven Lightweight Framework for Med
 </li>
   
 ## For more information
-More info about me can be found in [CV](https://zhouwen327.github.io/cv/).
+More info about me can be found in [CV](https://zhouwen327.github.io/cv/cv).
 
