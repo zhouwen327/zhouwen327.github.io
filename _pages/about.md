@@ -21,12 +21,12 @@ I am an associate professor at Anhui Normal University, China. My research inter
 * Rich experience in 3D modeling and retrieval.
 
 
-## Selected Journal Publications
+## Latest Journal Publications
 
-  <ul>{% for post in site.publications reversed%}
+  <ol>{% for post in site.publications reversed%}
          {% include archive-single-cv.html %}
       {% endfor %}
-  </ul>
+  </ol>
   
 ## For more information
 More info about me can be found in [CV](https://zhouwen327.github.io/cv/).
