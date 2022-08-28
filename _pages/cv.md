@@ -31,7 +31,7 @@ Work experience
     + Path planing for virtual emergency scenario, such as fire accidental scenario
     + Teaching
   
-* Nov.2019  - Nov. 2021: Lecturer/Assistor Professor
+* Nov.2018  - Nov. 2021: Lecturer/Assistor Professor
   * School of Computer and Information, Anhui normal University, Wuhu, P.R.China
   * Duties included: 
     + 3D shape retrieval based on sketch and segmentation Studies.
