@@ -23,7 +23,7 @@ I am an associate professor at Anhui Normal University, China. My research inter
 
 ## Selected Journal Publications
 
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed%}
          {% include archive-single-cv.html %}
       {% endfor %}
   </ul>
