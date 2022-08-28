@@ -22,12 +22,6 @@ I am an associate professor at Anhui Normal University, China. My research inter
 
 ## Selected Journal Publications
 
-<ul>
-       {% for post in site.publications %}
-       {% include archive-single-cv.html %}
-       {% endfor %}
-</ul>
-
 
 ## For more information
 
