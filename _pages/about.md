@@ -23,7 +23,10 @@ I am an associate professor at Anhui Normal University, China. My research inter
 
 ## Selected Journal Publications
 
-
+  <ul>{% for post in site.publications %}
+         {% include archive-single-cv.html %}
+      {% endfor %}
+  </ul>
   
 ## For more information
 More info about me can be found in [CV](https://zhouwen327.github.io/cv/).
