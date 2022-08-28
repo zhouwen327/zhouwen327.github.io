@@ -4,9 +4,6 @@ title: About
 permalink: /about/
 ---
 
-
-[]: 
-
 # Wen Zhou
 
 This is Wen Zhou's personal [homepage](https://zhouwen327.github.io/).
