@@ -2,7 +2,8 @@
 
 Basic background
 ======
-* Obtained the Ph.D. degree in School of Software Engineering, Tongji University, Shanghai City, P.R.China, July, 2018
+* Scholar Visitor, School of Computing, National University of Singapore (NUS), 21 Lower Kent Ridge Road Singapore, July,2023
+* Obtained the Ph.D. degree in the School of Software Engineering, Tongji University, Shanghai City, P.R.China, July, 2018
 * Joined the Computer and Information School, Anhui Normal University, Oct. 2018.
 * Be appointed as a graduate tutor in Jan.,2020.
 * Become associated professor in Dec.,2021.
