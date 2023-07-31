@@ -17,6 +17,10 @@ Research Interests
 
 Work experience
 ======
+* July 2023 - Current: Researcher & Scholar Visitor
+  * School of Computing, National University of Singapore (NUS)
+  * Duties included:
+     + collaborative with Professor Ooi Wei Tsang in multi-areas 
 * Dec. 2021 - Current: Associated Professor
   * School of Computer and Information, Anhui normal University, Wuhu, PR.China
   * Duties included: 
