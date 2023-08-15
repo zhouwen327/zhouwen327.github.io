@@ -10,7 +10,7 @@ This is Wen Zhou's personal [homepage](https://zhouwen327.github.io/).
 
 ## A short introduction
 
-I am an associate professor at Anhui Normal University, China. Meanwhile, a scholar visitor of the National University of Singapore (NUS). My research interest focuses on virtual reality and Artificial intelligence, including deep reinforcement methods in a virtual emergency scenario, a deep learning approach for shape segmentation, as well as Visualization, and 3D retrieval based on hand sketch.
+Since 2021, I have been an associate professor at Anhui Normal University, China. Meanwhile, a scholar visitor of the School of Computing, the National University of Singapore (NUS). My research interest focuses on virtual reality and Artificial intelligence, including deep reinforcement methods in a virtual emergency scenario, a deep learning approach for shape segmentation, as well as Visualization, and 3D retrieval based on hand sketch.
 
 ### Profile:
 
