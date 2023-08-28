@@ -1,5 +1,5 @@
 ---
-title: " University Teaching Research Project"
+title: " University Teaching Research Projects"
 collection: Projects
 type: "Projects"
 permalink: /projects/project02/
