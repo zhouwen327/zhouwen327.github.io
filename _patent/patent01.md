@@ -1,5 +1,5 @@
 ---
-title: "Patent and Software"
+title: "Patents"
 collection: Patents
 type: "Patents"
 permalink: /patents/patent01/
