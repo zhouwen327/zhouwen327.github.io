@@ -9,5 +9,6 @@ research terms: "2020.1 - 2022.12"
 status: "Completed"
 role: "Principal"
 ---
+
 In Chinese:
 国家自然科学基金青年项目NSFC (No. 61902003) “面向WebVR的轻量级三维模型检索关键技术研究”，2020.1-2022.12 (主持) 已结题
