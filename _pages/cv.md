@@ -11,11 +11,11 @@ redirect_from:
 
 Basic background
 ======
-* Obtained the Ph.D. degree in the School of Software Engineering, Tongji University, Shanghai, China, July 2018
-* Joined the Computer and Information School, Anhui Normal University, Oct. 2018.
-* Was appointed as a graduate tutor in December 2019.
-* Became associated professor in Dec. 2021.
-* Carried out collaborative research at the National University of Singapore (NUS), Kent Ridge, Singapore, as a visiting scholar, July 2023
+* Grant the Ph.D. degree in the School of Software Engineering, Tongji University, Shanghai, China, July 2018
+* Join in the Computer and Information School, Anhui Normal University, November 2018.
+* Be appointed as a graduate tutor in December 2019.
+* Be associated professor in December 2021.
+* Be a visiting scholar to carry out collaborative research at School of Computing of the National University of Singapore (NUS), Kent Ridge, Singapore, July 2023
 
 Research Interests
 ======
