@@ -3,6 +3,7 @@ title: "Dynamic Brain Network Analysis and Application Research for Functional M
 collection: Projects
 type: "Projects"
 permalink: /projects/projects/
+output: true
 ---
 - Source: <i><b><u>National Natural Science Foundation of China (NSFC), General Project (No. 61976006)</u></b></i>
 - Research terms: <b>2020.1 - 2023.12</b>
