@@ -74,9 +74,9 @@ Publications
 
 Projects
 ======
-<ol>{% for post in site.projects reversed %}
+<ul>{% for post in site.projects reversed %}
        {% include archive-single-cv.html %}
     {% endfor %}
-</ol>
+</ul>
 
 
