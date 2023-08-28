@@ -26,20 +26,20 @@ Research Interests
 
 Work experience
 ======
-* July 2023 - Jan. 2024: Visiting scholar
+* July 2023 - January 2024: Visiting scholar
   * School of Computing, National University of Singapore (NUS), Singapore	  
-* Dec. 2021 - Current: Associated Professor
+* Dec. 2021 - Now: Associated Professor
   * School of Computer and Information, Anhui Normal University, Wuhu, PR.China
   * Duties included: 
     + Path planning for virtual emergency scenarios, such as fire accidental scenario
     + Teaching
   
-* Nov.2018  - Nov. 2021: Lecturer/Assistor Professor
+* Nov.2018  - Noveber. 2021: Lecturer/Assistor Professor
   * School of Computer and Information, Anhui Normal University, Wuhu, China
   * Duties included: 
     + 3D shape retrieval based on sketch and segmentation Studies.
 	+ Preside on the Development of Youth project of the National Natural Foundation Science of China. 
-	+ Involve in the Study on the general program of the National Natural Foundation Science of China.
+	+ Involve in the Study of the general program of the National Natural Foundation Science of China.
   
 Skills
 ======
@@ -80,7 +80,7 @@ Projects
     {% endfor %}
 </ul>
 
-Patents
+Patents & Software Copyright
 ======
 <ol>{% for post in site.patents %}
          {% include archive-single-cv.html %}
