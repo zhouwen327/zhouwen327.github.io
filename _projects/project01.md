@@ -3,8 +3,8 @@ title: "Research on Key Technologies of Lightweight 3D Model Retrieval for WebVR
 collection: Projects
 type: "Projects"
 permalink: /projects/projects/
-venue: "National Natural Science Foundation Youth Project (No.61902003)"
 ---
+- Source: "National Natural Science Foundation Youth Project (No.61902003)"
 - Updated date: 2023-08-28
 - Research terms: "2020.1 - 2022.12"
 - Current status: "Completed"
