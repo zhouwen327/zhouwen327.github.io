@@ -2,7 +2,7 @@
 title: "Patent and Software"
 collection: Patents
 type: "Patents"
-permalink: /projects/patent01/
+permalink: /patents/patent01/
 date: August 28th 2023
 output: true
 ---
