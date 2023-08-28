@@ -25,6 +25,8 @@ Research Interests
 
 Work experience
 ======
+* July 2023 - Jan. 2024 : Visiting scholar
+  * School of Computing, National University of Singapore (NUS), Singapore	  
 * Dec. 2021 - Current: Associated Professor
   * School of Computer and Information, Anhui normal University, Wuhu, PR.China
   * Duties included: 
@@ -69,4 +71,12 @@ Publications
        {% include archive-single-cv.html %}
     {% endfor %}
 </ol>
+
+Projects
+======
+<ol>{% for post in site.projects reversed %}
+       {% include archive-single-cv.html %}
+    {% endfor %}
+</ol>
+
 
