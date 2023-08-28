@@ -2,7 +2,7 @@
 title: "Dynamic Brain Network Analysis and Application Research for Functional Magnetic Resonance Imaging"
 collection: Projects
 type: "Projects"
-permalink: /projects/projects/
+permalink: /projects/project02/
 output: true
 ---
 - Source: <i><b><u>National Natural Science Foundation of China (NSFC), General Project (No. 61976006)</u></b></i>
