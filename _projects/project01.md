@@ -3,6 +3,7 @@ title: "Research on Key Technologies of Lightweight 3D Model Retrieval for WebVR
 collection: Projects
 type: "Projects"
 permalink: /projects/projects/
+output: true
 ---
 - Source: <i><b><u>National Natural Science Foundation of China (NSFC), Youth Project (No.61902003)</u></b></i>
 - Research terms: <b>2020.1 - 2022.12</b>
