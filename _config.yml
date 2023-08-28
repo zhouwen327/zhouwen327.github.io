@@ -258,7 +258,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _patent
+  # _patents
   - scope:
       path: ""
       type: patents
