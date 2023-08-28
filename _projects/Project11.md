@@ -3,6 +3,7 @@ title: "The College Teaching And Research Project"
 collection: Projects
 type: "Projects"
 permalink: /projects/projects/
+output: false
 ---
 + In Chinese :
  + 安徽省质量工程一般项目(No. 2022jyxm563),数字图像处理课程多元混合式教学方法的探索与实践,2023-2025, 主持
