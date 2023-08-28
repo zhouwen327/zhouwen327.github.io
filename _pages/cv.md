@@ -79,4 +79,9 @@ Projects
     {% endfor %}
 </ul>
 
-
+Patents
+======
+<ol>{% for post in site.patents %}
+         {% include archive-single-cv.html %}
+      {% endfor %}
+</ol>
