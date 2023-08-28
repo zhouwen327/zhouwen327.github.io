@@ -4,7 +4,7 @@ collection: Projects
 type: "Projects"
 permalink: /projects/project02/
 output: false
-date: 28th August 2023
+date: August 28th 2023
 ---
 + In Chinese :
   + <u>安徽省质量工程一般项目(<b>No. 2022jyxm563</b>),数字图像处理课程多元混合式教学方法的探索与实践,2023-2025, 主持</u>
