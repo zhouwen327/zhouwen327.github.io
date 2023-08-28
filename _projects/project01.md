@@ -3,7 +3,7 @@ title: "Natural Science Research Projects"
 collection: Projects
 type: "Projects"
 permalink: /projects/project01/
-date: August 2023
+date: August 28th 2023
 output: true
 ---
 + Project 1 :
