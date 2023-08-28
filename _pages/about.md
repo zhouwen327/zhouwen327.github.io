@@ -30,7 +30,6 @@ In particular, my research interests mainly focus on virtual reality and Artific
   </ol>
 
 ## Projects
-  
   <ol>{% for post in site.projects %}
          {% include archive-single-cv.html %}
       {% endfor %}
