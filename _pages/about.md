@@ -21,7 +21,7 @@ Since 2021, I have been an associate professor at the School of Computer and Inf
 * Rich experience in 3D modeling and retrieval.
 
 
-## Journal Publications
+## Selected journal publications
 
   <ol>{% for post in site.publications reversed%}
          {% include archive-single-cv.html %}
