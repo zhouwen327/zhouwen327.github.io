@@ -9,13 +9,13 @@ main:
   
   # - title: "Talks"
   #  url: /talks/
-  
-  - title: "Patents"
-    url: /patents/
-     
+       
   - title: "Projects"
     url: /projects/
-      
+
+  - title: "Patents"
+    url: /patents/
+  
   - title: "CV"
     url: /cv/
     
