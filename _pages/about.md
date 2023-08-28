@@ -34,6 +34,11 @@ In particular, my research interests mainly focus on virtual reality and Artific
          {% include archive-single-cv.html %}
       {% endfor %}
   </ol>
+## Patents
+  <ol>{% for post in site.patents %}
+         {% include archive-single-cv.html %}
+      {% endfor %}
+  </ol>
 
 ## For more information
 More info about me can be found in [CV](https://zhouwen327.github.io/cv/).
