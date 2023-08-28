@@ -2,7 +2,7 @@
 title: "The College Teaching And Research Project"
 collection: Projects
 type: "Projects"
-permalink: /projects/projects/
+permalink: /projects/project11/
 output: false
 ---
 + In Chinese :
