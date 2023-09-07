@@ -14,12 +14,12 @@ output: true
 + Project 02:
     + Source: <i><b><u>National Natural Science Foundation of China (NSFC), General Project (No. 61976006)</u></b></i>
     - Research terms: <b>2020.1 - 2023.12</b>
-    - Current status: <b><font color='green'>During research </font></b>
+    - Current status: <b><font color='green'>Under research </font></b>
     - My role:  <font color='green'><b>Participant</b></font>
 + Project 03:
     + Source: <i><b><u>Anhui Provincial Colledge Key scientific research project (No. 2023AH050142)</u></b></i>
     - Research terms: <b>2023.9 - 2025.9</b>
-    - Current status: <b><font color='green'>During research </font></b>
+    - Current status: <b><font color='green'>Under research </font></b>
     - My role:  <font color='green'><b>Principal</b></font>
 - In Chinese:
     - <font style='color: blue;'>国家自然科学基金青年项目NSFC (<u>No. 61902003</u>) "面向WebVR的轻量级三维模型检索关键技术研究", 2020.1-2022.12, 主持 (已结题)</font>
