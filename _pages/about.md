@@ -12,13 +12,13 @@ redirect_from:
 This is Wen Zhou's personal [homepage](https://zhouwen327.github.io/).
 
 ## A short introduction
-Since 2021, I have been an associate professor at the School of Computer and Information, Anhui Normal University, China. Meantime, between July and December 2023, as a visiting scholar, I have come and carried out related collaborative research at the School of Computing, the National University of Singapore (NUS). 
+Since 2021, I have been an associate professor at the School of Computer and Information, Anhui Normal University, China. Meantime, between July and January 2024, as a visiting scholar, I have come and carried out related collaborative research at the School of Computing, the National University of Singapore (NUS). 
 In particular, my research interests mainly focus on virtual reality and Artificial intelligence, including deep reinforcement methods in 3D shape analysis, shape segmentation, and a virtual emergency scenario, as well as Visualization, and 3D retrieval based on hand-sketch.
 
 ### Profile:
 * Highly self-motivated researcher with demonstrated research expertise in virtual scenario processes. 
 * Strong interpersonal skills with a good sense of teamwork.
-* Programming Skills: Python, C/C++, and Java in both Unix and Windows environments.
+* Programming Skills: Python, C/C++, and Java in both Linux and Windows environments.
 * Rich experience in 3D modeling and retrieval.
 
 
