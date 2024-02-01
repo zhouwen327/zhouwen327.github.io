@@ -17,7 +17,7 @@ output: true
     - Current status: <b><font color='green'>Under research </font></b>
     - My role:  <font color='green'><b>Participant</b></font>
 + Project 03:
-    + Source: <i><b><u>Anhui Provincial Colledge Key scientific research project (No. 2023AH050142)</u></b></i>
+    + Source: <i><b><u>University Natural Science Research Project of Anhui Province(No. 2023AH050142)</u></b></i>
     - Research terms: <b>2024.1 - 2025.12</b>
     - Current status: <b><font color='green'>Under research </font></b>
     - My role:  <font color='green'><b>Principal</b></font>
