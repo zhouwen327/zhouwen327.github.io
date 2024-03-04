@@ -19,7 +19,7 @@ output: true
 + Project 03:
     + Source: <i><u>National Natural Science Foundation of China (NSFC), General Project (No. 61976006)</u></i>
     - Research terms: 2020.1 - 2023.12
-    - Current status: <b><font color='blue'>Completed </font></b>
+    - Current status: <font color='blue'>Completed </font>
     - My role:  <font color='blue'>Participant</font>
 
 - In Chinese:
