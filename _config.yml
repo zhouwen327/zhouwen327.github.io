@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wen Zhou"
   avatar           : "profile.jpg"
-  bio              : &description "Ph.D.,  Associated Prof. in School of Computer & Information of Anhui Normal University, Wuhu City, Anhui Province, P.R.China"
+  bio              : &description "Ph.D.,  Associated Prof. in School of Computer & Information of Anhui Normal University, Wuhu, Anhui Province, China"
   location         : "Wuhu, Anhui Province, China"
   employer         : "Anhui Normal University"
   pubmed           : 
