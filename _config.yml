@@ -3,95 +3,23 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
-# Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
-
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
-author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
-
-  # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
-  # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
-
-# Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+# `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+locale                   : "cn-ZH"
+title                    : "Wen Zhou"
+title_separator          : "-"
+name                     : &name "Wen Zhou"
+description              : &description "personal description"
+url                      : https://zhouwen327.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "zhouwen327/zhouwen327.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false      #change to true to add link to talkmap on talks page
+talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -101,10 +29,10 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : # "light" , "dark (default)"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "zhouwen" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -119,9 +47,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
-
 
 # SEO Related
 google_site_verification :
@@ -129,16 +55,14 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-
 # Social Sharing
 twitter:
   username               : &twitter
 facebook:
-  username               :
+  username               : &facebook
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -149,9 +73,48 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
+
+
+# Site Author
+author:
+  name             : "Wen Zhou"
+  avatar           : "profile.jpg"
+  bio              : &description "Ph.D.,  Associated Prof. in School of Computer & Information of Anhui Normal University, Wuhu City, Anhui Province, P.R.China"
+  location         : "Wuhu City, Anhui Province, P.R.China"
+  employer         : "Anhui Normal University"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com.hk/citations?user=5IfVOUQAAAAJ&hl=zh-CN"
+  email            : "w.zhou@ahnu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Wen-Zhou-5"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         : "Benjamin.zhouwen"
+  foursquare       :
+  github           : "zhouwen327"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : "http://orcid.org/0000-0002-1266-1864"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : 
+  steam            :
+  tumblr           :
+  twitter          : "BenjaminChowWen"
+  vine             :
+  weibo            : 
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
@@ -164,26 +127,23 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
-  - .github
   - .jekyll-assets-cache
   - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
-  - CHANGELOG
-  - Capfile
   - config
-  - Dockerfile
-  - Gemfile
-  - Gruntfile.js
   - gulpfile.js
-  - LICENSE
-  - local
   - log
   - node_modules
-  - package.json*
-  - Rakefile
-  - README
+  - package.json
   - tmp
   - vendor
 keep_files:
@@ -213,12 +173,15 @@ kramdown:
   enable_coderay: false
 
 
-# These settings control the types of collections used by the template
+# Collections
 collections:
   teaching:
     output: true
     permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  projects:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -227,9 +190,11 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
-
-# These settings control how pages and collections are included in the site
+  patents:
+    output: true
+    permalink: /:collection/:path/
+    
+# Defaults
 defaults:
   # _posts
   - scope:
@@ -267,6 +232,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+ # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -284,7 +258,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _patents
+  - scope:
+      path: ""
+      type: patents
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
@@ -296,25 +277,23 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
 plugins:
-  - jekyll-feed
-  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
   - jekyll-redirect-from
-  - jemoji
-
-# Mimic GitHub Pages with --safe
+  - jekyll-seo-tag
+# mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-feed
-  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-redirect-from
+  - jekyll-gist
+  - jekyll-feed
   - jemoji
 
 
@@ -353,3 +332,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-minimal
+
+github: [metadata]
