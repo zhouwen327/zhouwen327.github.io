@@ -14,5 +14,6 @@ output: true
 - Software copyright:
     - <a href="http://ivr-ahnu.cn/cn/sr/202201.pdf">虚拟火灾逃生演练系统V1.0.</a> (<i>登记号：2022SR0438966</i>)
     - <a href="http://ivr-ahnu.cn/cn/sr/202202.pdf">虚拟教室自动布局设计系统v1.0.</a> (<i>登记号：2022SR0973155 </i>)
-    - <a href="http://ivr-ahnu.cn/cn/sr/202504.pdf">基于社交媒体文本分析的区域交通事件实时检测与预警系统.</a>(<i>软著登记号:2025SR0563810)</i>
+    - <a href="http://ivr-ahnu.cn/cn/sr/202504.pdf">基于社交媒体文本分析的区域交通事件实时检测与预警系统.</a>(<i>登记号:2025SR0563810)</i>
+
 
